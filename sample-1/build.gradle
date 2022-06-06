@@ -8,9 +8,10 @@ plugins {
 group = 'kr.co.ydata.yangtest'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
+targetCompatibility = '17'
 
-sourceCompatibility = 11
-targetCompatibility = 11
+// sourceCompatibility = 11
+// targetCompatibility = 11
 
 
 repositories {
